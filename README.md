@@ -1,16 +1,17 @@
 # phonicia
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>shipping goods flutter </h1>
+<div>
+<img src="screenshots/Screenshot_2020-07-02-20-35-35.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-07.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-18.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-24.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-30.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-37.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-45.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-57.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-36-59.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-37-19.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-37-22.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-37-29.png" width=200>
+<img src="screenshots/Screenshot_2020-07-02-20-37-37.png" width=200>
+</div>
